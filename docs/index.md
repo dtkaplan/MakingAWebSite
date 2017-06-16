@@ -41,7 +41,9 @@
     * Make sure you work inside docs/ and its sub-folders
     * Make sure you commit both the Rnw and HTML files (the web side needs the HTML, but R creates it for you, so you won't need to edit it.)
     
-    
+## Want to add a tutorial
+
+Put a link to the tutorial [like this](https://dtkaplan.shinyapps.io/Statistics_formulas/).
   
   
   ![git commit messages](https://imgs.xkcd.com/comics/git_commit_2x.png)
