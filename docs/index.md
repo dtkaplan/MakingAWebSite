@@ -23,5 +23,6 @@
   2. Choose "master branch /docs folder" method.
       * This only works if you created the file in the previous step, so do that first.
   3. Choose a theme if you like.
+  4. After a brief delay, your website will be available.  This one is at [https://dtkaplan.github.io/MakingAWebSite/](https://dtkaplan.github.io/MakingAWebSite/)
   
   
